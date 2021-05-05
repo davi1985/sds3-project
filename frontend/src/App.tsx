@@ -1,3 +1,3 @@
 export function App() {
-  return <h1>DevSuperior</h1>
+  return <h1 className="text-primary">DevSuperior</h1>
 }
